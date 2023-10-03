@@ -2,7 +2,7 @@
 - 👀 I’m interested in ganhar nota ;)
 - 📫 How to reach me lucasstibbe19@gmail.com 
 - 🤠🌱filho do mato, venho da roça
-- 🤫🤔melhor do mundo graças a deus
+- 🤫🤔melhor do mundo graças a Deus
 - 🐐se vc parar pra pensar......... vc estara pensando parado😳🕶️🤏
 <!---
 lucasstibbe/lucasstibbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
