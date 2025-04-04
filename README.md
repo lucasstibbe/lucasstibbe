@@ -3,7 +3,7 @@
 - 📫 How to reach me lucasstibbe19@gmail.com 
 - 🤠🌱filho do mato, venho da roça
 - 🤫🤔melhor do mundo graças a Deus
-- 🐐se vc parar pra pensar......... vc estara pensando parado😳🕶️🤏
+- 🐐se vc parar pra pensar......... vc estara pensando parado😳🤏🕶️
 <!---
 lucasstibbe/lucasstibbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
