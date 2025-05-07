@@ -2,7 +2,7 @@
 
 🎓 Cursando **Engenharia de Software** (1/8) no Biopark.
 
-Sou apaixonado por tecnologia, programação e design! 💡  
+Sempre procurando evoluir por tecnologia, programação e design! 💡  
 Tenho 18 anos, sou de **Maripá - PR** 🇧🇷 e estou sempre em busca de novos aprendizados e desafios.  
 Gosto de transformar ideias em soluções criativas, especialmente nas áreas de desenvolvimento web e design de interfaces (UX/UI).
 
@@ -25,7 +25,6 @@ Gosto de transformar ideias em soluções criativas, especialmente nas áreas de
 - 💻 Focado em me tornar um desenvolvedor completo (full stack)
 - 📚 Curioso e dedicado, sempre buscando aprender novas tecnologias
 - 🤝 Aberto a colaborações em projetos interessantes
-- 🌍 Interessado em UX/UI, design de produtos e boas práticas de código
 - ✨ Buscando construir um portfólio sólido com projetos reais
 - 🏡 Natural de **Maripá - PR**, com 18 anos
 
