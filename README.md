@@ -13,7 +13,7 @@
 
 📱 Me encontre por aí:
 - Instagram: [@lucas_stibbe](https://www.instagram.com/lucas_stibbe)
-- LinkedIn: [Lucas Stibbe](https://www.linkedin.com/in/lucas-stibbe)
+- LinkedIn: [Lucas Stibbe](www.linkedin.com/in/lucas-stibbe-630788285)
 
 🚀 Sempre buscando aprender mais e evoluir como desenvolvedor!
 <!---
