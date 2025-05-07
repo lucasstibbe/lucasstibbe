@@ -2,6 +2,10 @@
 
 🎓 Cursando **Engenharia de Software** (1/8) no Biopark.
 
+Sou apaixonado por tecnologia, programação e design! 💡  
+Tenho 18 anos, sou de **Maripá - PR** 🇧🇷 e estou sempre em busca de novos aprendizados e desafios.  
+Gosto de transformar ideias em soluções criativas, especialmente nas áreas de desenvolvimento web e design de interfaces (UX/UI).
+
 ---
 
 ## 💻 Atualmente estudando:
@@ -17,13 +21,23 @@
 
 ---
 
+## 🌱 Sobre mim:
+- 💻 Focado em me tornar um desenvolvedor completo (full stack)
+- 📚 Curioso e dedicado, sempre buscando aprender novas tecnologias
+- 🤝 Aberto a colaborações em projetos interessantes
+- 🌍 Interessado em UX/UI, design de produtos e boas práticas de código
+- ✨ Buscando construir um portfólio sólido com projetos reais
+- 🏡 Natural de **Maripá - PR**, com 18 anos
+
+---
+
 ## 📱 Me encontre por aí:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lucas_stibbe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-stibbe)
 
 ---
 
-🚀 Sempre buscando aprender mais e evoluir como desenvolvedor!
+🚀 Sempre buscando aprender mais, crescer e compartilhar conhecimento com a comunidade!
 
 <!---
 lucasstibbe/lucasstibbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
