@@ -1,23 +1,11 @@
 # 👋 Olá, eu sou Lucas Stibbe!
 
-🎓 Cursando **Engenharia de Software** (1/8) no Biopark.
+🎓 Cursando **Engenharia de Software** (3/8) no Biopark.
 
-Sempre procurando evoluir por tecnologia, programação e design! 💡  
-Tenho 18 anos, sou de **Maripá - PR** 🇧🇷 e estou sempre em busca de novos aprendizados e desafios.  
-Gosto de transformar ideias em soluções criativas, especialmente nas áreas de desenvolvimento web e design de interfaces (UX/UI).
-
----
-
-## 💻 Atualmente estudando:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![UX Design](https://img.shields.io/badge/UX%20Design-FF4088?logo=figma&logoColor=white)
+Sempre procurando evoluir por tecnologia e programação! 💡  
+Tenho 19 anos, sou de **Maripá - PR** 🇧🇷 e estou sempre em busca de novos aprendizados e desafios.  
 
 ---
-
-## 🛠️ Principais habilidades:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 
 ---
 
@@ -26,7 +14,7 @@ Gosto de transformar ideias em soluções criativas, especialmente nas áreas de
 - 📚 Curioso e dedicado, sempre buscando aprender novas tecnologias
 - 🤝 Aberto a colaborações em projetos interessantes
 - ✨ Buscando construir um portfólio sólido com projetos reais
-- 🏡 Natural de **Maripá - PR**, com 18 anos
+- 🏡 Natural de **Maripá - PR**, com 19 anos
 
 ---
 
