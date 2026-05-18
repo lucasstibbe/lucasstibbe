@@ -114,8 +114,6 @@
 
 ### ✨ "A melhor maneira de aprender é construindo." ✨
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=lucasstibbe&label=Visualizações&color=0e75b6&style=flat" />
 
 </div>
-* 👀 Contador de visualizações
-* ⌨️ Typing SVG animado
