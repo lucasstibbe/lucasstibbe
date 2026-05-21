@@ -47,7 +47,6 @@ Acredito que consistência e projetos reais são o melhor caminho para evoluir c
 <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasstibbe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasstibbe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=lucasstibbe&theme=tokyonight&hide_border=true" />
 
 </div>
 
