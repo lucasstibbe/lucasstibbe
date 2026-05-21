@@ -1,25 +1,29 @@
 <div align="center">
 
-# 👨‍💻 Lucas Stibbe
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Stibbe+%F0%9F%91%8B;Engenharia+de+Software+%7C+Java+%7C+Spring+Boot;Apaixonado+por+tecnologia+e+aprendizado+cont%C3%ADnuo" alt="Typing SVG" />
 
-### 🎓 Estudante de Engenharia de Software | ☁️ Futuro Engenheiro de Software 
+# Lucas Stibbe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Estudando+Engenharia+de+Software;Java+%7C+Spring+Boot+%7C+Docker+%7C+Git;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+🎓 Estudante de Engenharia de Software &nbsp;·&nbsp; ☁️ Focado em backend &nbsp;·&nbsp; 🇧🇷 Brasil
 
 </div>
 
 ---
 
-## 🌟 Sobre mim
+## Sobre mim
 
-🎓 Atualmente cursando **Engenharia de Software**  
-🐙 Aprimorando conhecimentos em **Git e GitHub**  
-☕ Desenvolvendo projetos com **Java e Spring Boot**  
-📚 Sempre buscando evoluir como desenvolvedor
+Sou estudante de **Engenharia de Software** com foco em desenvolvimento backend, boas práticas de engenharia e cultura DevOps. Atualmente construindo projetos com **Java + Spring Boot**, explorando **Docker**, **CI/CD** e fundamentos de **Cloud com Google Cloud Platform**.
+
+Acredito que consistência e projetos reais são o melhor caminho para evoluir como desenvolvedor.
+
+- 🔭 Trabalhando em projetos pessoais com Java e Spring Boot
+- 📖 Estudando testes de software, persistência e containerização
+- 🎯 Objetivo: conquistar minha primeira oportunidade como Engenheiro de Software
+- 💬 Pode me chamar para trocar ideias sobre backend, Java ou tecnologia
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Stack & Ferramentas
 
 <div align="center">
 
@@ -27,29 +31,21 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasstibbe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasstibbe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Streak de Contribuições
-
-<div align="center">
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasstibbe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasstibbe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com?user=lucasstibbe&theme=tokyonight&hide_border=true" />
 
@@ -57,63 +53,28 @@
 
 ---
 
-## 🐍 Snake das Contribuições
+## Troféus
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/lucasstibbe/lucasstibbe/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=lucasstibbe&theme=tokyonight&no-frame=true&row=1&column=7" />
-
 </div>
 
 ---
 
-## 📚 Atualmente estudando
-
-- ☕ Java e Spring Boot
-- 🗄️ Banco de Dados e Persistência
-- 🐳 Docker e Containers
-- 🔄 CI/CD com GitHub Actions
-- 🧪 Testes de Software
-
----
-
-## 🎯 Objetivos
-
--  Conquistar estágio em Engenharia de Software
--  Construir projetos completos e escaláveis
--  Evoluir constantemente como desenvolvedor
-
----
-
-## 🌐 Onde me encontrar
+## Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+<a href="https://www.linkedin.com/in/LucasStibbe" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:lucasstibbe19@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-### ✨ "A melhor maneira de aprender é construindo." ✨
-
-<img src="https://komarev.com/ghpvc/?username=lucasstibbe&label=Visualizações&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=lucasstibbe&label=Visualizações+do+perfil&color=0e75b6&style=flat" />
 
 </div>
