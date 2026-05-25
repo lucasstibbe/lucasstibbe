@@ -4,7 +4,7 @@
 
 # Lucas Stibbe
 
-🎓 Estudante de Engenharia de Software &nbsp;·&nbsp; ☁️ Focado em backend &nbsp;·&nbsp; 🇧🇷 Brasil
+🎓 Estudante de Engenharia de Software &nbsp;·&nbsp; 🇧🇷 Brasil
 
 </div>
 
