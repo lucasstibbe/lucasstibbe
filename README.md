@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Stibbe+%F0%9F%91%8B;Engenharia+de+Software+%7C+Java+%7C+Spring+Boot;Apaixonado+por+tecnologia+e+aprendizado+cont%C3%ADnuo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Stibbe+%F0%9F%91%8B;Futuro+Engenheiro+de+Software;" alt="Typing SVG" />
 
 # Lucas Stibbe
 
